@@ -1,0 +1,10 @@
+[package]
+name = "nbsysrc"
+version = "0.1.0"
+authors = ["Ron Georgia <rong1611@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+clap = '2.33'
+nix = '0.13.0'
+# os_type = { path = "/home/rgeorgia/workspace/os_type" }
